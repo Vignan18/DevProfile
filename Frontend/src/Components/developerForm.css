@@ -1,0 +1,32 @@
+
+.developerForm buttons {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  #submitBtn {
+    font-size: 22px;
+    height: 40px;
+    width: 120px;
+    border: none;
+    cursor: pointer;
+    background-color: #7c639f;
+    color: #fff;
+    border-radius: 10px;
+    margin-right: 20px;
+    margin-left: 70px;
+  }
+  
+  
+  #cancelBtn {
+    font-size: 22px;
+    height: 40px;
+    background-color: red;
+    width: 120px;
+    border: none;
+    cursor: pointer;
+    color: white;
+    border-radius: 10px;
+    margin-left:35%;
+  }
+  
