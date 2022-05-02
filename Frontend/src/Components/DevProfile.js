@@ -26,9 +26,10 @@ const DevProfile = () => {
 
   return (
     <>
+    
       {Loading && <Profile developerDetails={developerDetails} />}
 
-      <h1 style={{ textAlign: "center" }}>Github Repositories</h1>
+      
       <Footer />
     </>
   );

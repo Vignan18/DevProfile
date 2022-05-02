@@ -110,8 +110,9 @@ const Profile = ({ developerDetails }) => {
           </div>
         </div>
       </div>
-
+      <h1 style={{ textAlign: "center" }}>Github Repositories</h1>
       <div className="repos">
+
         <Repositories repos={repos} />
       </div>
     </>
